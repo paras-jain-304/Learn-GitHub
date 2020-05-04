@@ -1,0 +1,5 @@
+*.tmp
+*.jar
+*.war
+*.bat
+/temp/
